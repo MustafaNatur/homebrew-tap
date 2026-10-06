@@ -1,8 +1,8 @@
 class Blueprint < Formula
   desc "Draw a blueprint version of an Icon Composer icon"
   homepage "https://github.com/MustafaNatur/blueprint"
-  url "https://github.com/MustafaNatur/blueprint/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "d088c0219c60bf8e598405da94be4c680bf11937a43c5089546f4920e165c62b"
+  url "https://github.com/MustafaNatur/blueprint/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "7c8a5cbb88a4864eddc72db1befb72c1ba0cc71053aa2ba5efda7c0f30e6ea11"
 
   depends_on xcode: ["26.0", :build]
   depends_on :macos
