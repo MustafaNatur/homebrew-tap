@@ -21,4 +21,4 @@ brew "<formula>"
 
 | Formula | |
 |---|---|
-| [blueprint](https://github.com/MustafaNatur/blueprint) | Draw a blueprint version of an Icon Composer icon. |
+| [blueprint](https://github.com/MustafaNatur/blueprint) | Draw a blueprint version of an app icon for debug builds. |
