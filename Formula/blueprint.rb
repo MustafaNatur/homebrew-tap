@@ -1,8 +1,8 @@
 class Blueprint < Formula
   desc "Draw a blueprint version of an app icon for debug builds"
   homepage "https://github.com/MustafaNatur/blueprint"
-  url "https://github.com/MustafaNatur/blueprint/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "1ccd1b851037edfb8e62db0ef0d1067a5363a69a861ec17c915e4571cfcf37a3"
+  url "https://github.com/MustafaNatur/blueprint/archive/refs/tags/v1.4.1.tar.gz"
+  sha256 "dacdc3a5d2c422dc28fe7f67c54484e606f1e252066cbe80a01edf69aa559b66"
   license "MIT"
 
   depends_on xcode: ["26.0", :build]
